@@ -15,3 +15,9 @@ if (!function_exists('array_hash')) {
 		return 111;
 	}
 }
+
+if (function_exists('array_hub')) {
+	function array_hub() {
+		return 1111;
+	}
+}
