@@ -21,3 +21,10 @@ if (function_exists('array_hub')) {
 		return 1111;
 	}
 }
+
+
+if (function_exists('xiha')) {
+	function xiha() {
+		return 222;
+	}
+}
